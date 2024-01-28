@@ -1,7 +1,7 @@
 ### Hi there 👋
 🔭 Profile page is on the way..
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/dileep98/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep98)](https://github.com/dileep98/github-readme-stats)
 <!--
 **dileep98/dileep98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
