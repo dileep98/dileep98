@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar Tutika</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend Devloper</h3>
 
 - 🌱 I’m currently learning **Microservices, Container Orchestration**
 
