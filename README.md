@@ -1,11 +1,12 @@
 ### Hi there 👋
 🔭 Profile page is on the way..
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep98)](https://github.com/dileep98/github-readme-stats)
+
 <!--
 **dileep98/dileep98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dileep98)](https://github.com/dileep98/github-readme-stats)
 
 - 🔭 Profile page is on the way..
 - 🌱 I’m currently learning ...
