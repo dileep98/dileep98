@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dileep Kumar Tutika</h1>
 <h3 align="center">A passionate Backend Devloper</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harikesh409&label=Profile%20views&color=0e75b6&style=flat" alt="harikesh409" /> </p>
 
 - 🌱 I’m currently learning **Microservices, Container Orchestration**
 
